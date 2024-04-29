@@ -1,6 +1,6 @@
 import setuptools
 
 setuptools.setup(
-    name="base-discord-bot",
+    name="discord-ext-base",
     packages=["discord.ext.base"],
 )
