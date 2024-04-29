@@ -1,0 +1,4 @@
+EXTENSIONS_FOLDER = "src.cogs"
+JISHAKU = true
+PREFIX = "?"
+TOKEN = "..."
